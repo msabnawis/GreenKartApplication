@@ -1,0 +1,9 @@
+2024-09-01 19:19:00,327 :INFO : test_e2e :Printing actual list of items:
+2024-09-01 19:19:00,329 :INFO : test_e2e :['Cauliflower - 1 Kg', 'Carrot - 1 Kg', 'Capsicum', 'Cashews - 1 Kg']
+2024-09-01 19:19:08,135 :INFO : test_e2e :Code applied ..!
+2024-09-01 19:19:08,156 :INFO : test_e2e :Total price: 60
+2024-09-01 19:19:08,261 :INFO : test_e2e :Length of countries: 209
+2024-09-01 19:19:08,261 :INFO : test_e2e :Selecting Country...
+2024-09-01 19:19:08,795 :INFO : test_e2e :India is selected
+2024-09-01 19:19:08,880 :INFO : test_e2e :Thank you, your order has been placed successfully
+You'll be redirected to Home page shortly!!
